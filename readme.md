@@ -1,3 +1,5 @@
+Графический интерфейс для настройки сбора данных в базу SQL Server с помощью SQLdiag. Собранные данные можно использовать в SQL Nexus. SQL Nexus - помощник по устранению проблем с производительностью SQL Server.
+
 ## What is Pssdiag/Sqldiag Manager?
 Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine. The data collected can be used by [SQL Nexus tool](http://sqlnexus.codeplex.com/)  which help you troubleshoot SQL Server performance problems.  This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems.
 
